@@ -1,71 +1,15 @@
-<h1>Hola, soy Axel Pessini</h1>
+<h1 align="center">Hola, soy Axel Pessini</h1> <p align="center"> 💻 Software Developer · 🌐 Web · 🎮 Game Development · 🐧 Linux </p> <p align="center"> <a href="https://github.com/TU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> </a> <a href="https://instagram.com/TU_USUARIO"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> </a> <a href="mailto:TU_EMAIL"> <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/> </a> </p> <h2>👨‍💻 Sobre mí</h2> <p> Desarrollador de software interesado en crear <strong>aplicaciones, sitios web y videojuegos</strong>. </p> <p> Me gusta aprender nuevas tecnologías, experimentar con herramientas y convertir ideas en proyectos funcionales. </p>
 
-💻 Desarrollador de software | 🌐 Web | 🎮 Game Development | 🐧 Linux
+💻 Desarrollo de software
 
-Soy desarrollador interesado en crear aplicaciones, sitios web y proyectos interactivos. Me gusta aprender nuevas tecnologías, experimentar con diferentes herramientas y convertir ideas en proyectos funcionales.
+🌐 Desarrollo web
 
-🧑‍💻 Sobre mí
+🎮 Desarrollo de videojuegos
 
-💻 Desarrollo aplicaciones y proyectos web
-
-🎮 Desarrollo de videojuegos con Godot
-
-🌐 Trabajo con tecnologías de desarrollo web
-
-🐧 Usuario de Linux
-
-🗄️ Experiencia trabajando con MySQL
-
-🚀 Siempre aprendiendo y mejorando mis habilidades
-
-🛠️ Lenguajes y tecnologías
-💻 Lenguajes
-<p> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> </p>
-🌐 Desarrollo Web
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> </p>
 🗄️ Bases de datos
-<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
-🎮 Game Development
-<p> <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/> </p>
-🛠️ Herramientas e IDEs
-<p> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </p>
-🚀 Proyectos
-🎮 [Proyecto de videojuego]
 
-Descripción breve de mi proyecto desarrollado con Godot y C#.
+🐧 Linux
 
-Tecnologías: Godot C#
+🔧 Git
 
-🌐 [Proyecto Web]
-
-Aplicación/sitio web desarrollado utilizando tecnologías web y conexión con base de datos.
-
-Tecnologías: HTML CSS JavaScript Bootstrap 5 PHP MySQL
-
-☕ [Proyecto Java]
-
-Proyecto desarrollado utilizando Java, enfocado en [descripción del proyecto].
-
-Tecnologías: Java
-
-📚 Actualmente aprendiendo
-
-🔥 Mejorar mis conocimientos de desarrollo de software
-
-🌐 Profundizar en desarrollo web
-
-🗄️ Mejorar mis conocimientos de bases de datos
-
-🎮 Seguir desarrollando proyectos con Godot
-
-🐧 Seguir aprendiendo sobre Linux
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AxelPessini&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelPessini&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-</p>
-📫 Contacto
-<p> <a href="https://github.com/TU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com/in/TU_USUARIO"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
-<p align="center"> <i>“Siempre hay algo nuevo que aprender.”</i> </p>
+<h2>🛠️ Tecnologías</h2> <h3>💻 Lenguajes</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=cs,java,js,php" /> </p> <h3>🌐 Desarrollo Web</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /> </p> <h3>🎮 Game Development</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=godot,cs,java" /> <img src="https://img.shields.io/badge/libGDX-EA8220?style=for-the-badge&logo=libgdx&logoColor=white"/> </p> <h3>🗄️ Bases de datos</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=mysql,postgres" /> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/> </p> <h3>🛠️ Herramientas</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=vscode,eclipse,linux,git" /> </p> <h2>🚀 Proyectos</h2> <h3>🎮 Game Development</h3> <p>Videojuegos desarrollados utilizando:</p> <p align="left"> <img src="https://skillicons.dev/icons?i=godot,cs,java" /> <img src="https://img.shields.io/badge/libGDX-EA8220?style=flat-square&logo=libgdx&logoColor=white"/> </p> <h3>🌐 Web Development</h3> <p>Aplicaciones web desarrolladas utilizando:</p> <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql" /> </p> <h3>☕ Java</h3> <p>Proyectos desarrollados utilizando:</p> <p align="left"> <img src="https://skillicons.dev/icons?i=java" /> </p> <h2>📚 Cada día mejorando</h2> <p align="left"> <img src="https://skillicons.dev/icons?i=cs,java,js,php,html,css,godot,mysql,postgres,linux,git" /> </p> <h2> <img src="https://skillicons.dev/icons?i=github" width="28"/> GitHub </h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </p> 
