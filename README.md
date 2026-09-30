@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Axel Pessini</h1> <p align="center"> 💻 Software Developer · 🌐 Web · 🎮 Game Development · 🐧 Linux </p> <p align="center"> <a href="https://github.com/axelpessini12"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> </a> <a href="https://instagram.com/axelpessini1"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> </a> <a href="https://axelpessini.itch.io/"> <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white"/> </a> <a href="mailto:axelpessini82@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/> </a> </p> <h2>Sobre mí</h2> <p> Desarrollador de software interesado en crear <strong>aplicaciones, sitios web y videojuegos</strong>. </p>
+<h1 align="center">Hola, soy Axel Pessini</h1> <p align="center"> 💻 Software Developer · 🌐 Web · 🎮 Game Development · 🐧 Linux </p> <p align="center"> <a href="https://github.com/axelpessini12"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> </a> <a href="https://instagram.com/axelpessini1"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> </a> <a href="https://lizy-usagi.itch.io/"> <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white"/> </a> <a href="mailto:axelpessini82@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/> </a> </p> <h2>Sobre mí</h2> <p> Desarrollador de software interesado en crear <strong>aplicaciones, sitios web y videojuegos</strong>. </p>
 
 💻 Desarrollo de software
 
@@ -20,7 +20,7 @@
   Podés verlos y jugarlos acá 👇
 </p>
 <p align="center">
-  <a href="https://axelpessini.itch.io/">
+  <a href="https://lizy-usagi.itch.io/">
     <img src="https://img.shields.io/badge/Ver%20mis%20juegos-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
   </a>
 </p>
